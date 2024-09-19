@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, my name is Kristina👋
+
+Studying [ICT Engineering Master's degree](https://www.hvl.no/en/studies-at-hvl/study-programmes/ict-engineering-applied-computer-science/) at HVL.
+
+Like to work on game developement in my free time.
 
 <!--
 **kristinakoder/kristinakoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
