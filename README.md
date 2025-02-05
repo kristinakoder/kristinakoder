@@ -1,7 +1,5 @@
 ## Hello, my name is Kristina👋
 
-Studying [ICT Engineering Master's degree](https://www.hvl.no/en/studies-at-hvl/study-programmes/ict-engineering-applied-computer-science/) at HVL.
-
 Like to work on game developement in my free time.
 
 <!--
